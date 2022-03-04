@@ -1,5 +1,4 @@
-# testrepo1
-
-## Editing the File
-
-Its a markdown file in this repository
+git branch -Master <BRANCH>
+git fetch origin
+git branch -u origin/<BRANCH> <BRANCH>
+git remote set-head origin -a
